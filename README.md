@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Carlito</h1>
+<h1 align="center">Hello</h1>
 <h3 align="center">Web Developer specializing in scalable applications and developer tools.</h3>
 
 - 🔭 I’m currently working on **advanced WordPress plugins**
