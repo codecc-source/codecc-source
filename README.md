@@ -20,7 +20,7 @@
 - **Frontend engineering:** responsive, performance-safe hero sections, carousels, FAQ accordions and other front-end related needs
 - **Technical SEO and multilingual sites:** SEO audit remediation and multilingual configuration (ACF, Polylang)
 - **Automation and integrations:** Zapier workflows, Google Sheets API, and external API integrations with WordPress
-- - **React Personal Projects:** Useful personal projects made using ReactJS
+- **React Personal Projects:** Useful personal projects made using ReactJS
 
 <h3 align="left">Languages I use:</h3>
 
