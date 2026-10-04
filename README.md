@@ -13,13 +13,14 @@
 
 - Reach me **<a href="mailto:carlitotingson.work@gmail.com">here</a>**
 
-<h3 align="left">What I do:</h3>
+<h3 align="left">What I do (professional work):</h3>
 
 - **WordPress maintenance, end to end:** custom plugins, themes, bug testing and fixes, updates and feature work
 - **Performance (PSI / Core Web Vitals):** LCP, render-blocking resources, lazy loading, WebP, critical rendering path
 - **Frontend engineering:** responsive, performance-safe hero sections, carousels, FAQ accordions and other front-end related needs
 - **Technical SEO and multilingual sites:** SEO audit remediation and multilingual configuration (ACF, Polylang)
 - **Automation and integrations:** Zapier workflows, Google Sheets API, and external API integrations with WordPress
+- - **React Personal Projects:** Useful personal projects made using ReactJS
 
 <h3 align="left">Languages I use:</h3>
 
