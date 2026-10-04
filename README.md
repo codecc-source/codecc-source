@@ -11,13 +11,13 @@
 
 - Portfolio: **<a href="https://web-portfolio-v3.vercel.app">Web Portfolio</a>**
 
-- Reach me at **<a href="mailto:carlitotingson.work@gmail.com">Email</a>**
+- Reach me **<a href="mailto:carlitotingson.work@gmail.com">here</a>**
 
 <h3 align="left">What I do:</h3>
 
 - **WordPress maintenance, end to end:** custom plugins, themes, bug testing and fixes, updates and feature work
 - **Performance (PSI / Core Web Vitals):** LCP, render-blocking resources, lazy loading, WebP, critical rendering path
-- **Frontend engineering:** responsive, performance-safe hero sections, carousels, FAQ accordions and video integrations
+- **Frontend engineering:** responsive, performance-safe hero sections, carousels, FAQ accordions and other front-end related needs
 - **Technical SEO and multilingual sites:** SEO audit remediation and multilingual configuration (ACF, Polylang)
 - **Automation and integrations:** Zapier workflows, Google Sheets API, and external API integrations with WordPress
 
@@ -37,5 +37,5 @@
 
 <h2 align="center">📊 Activity Graph</h2>
 
-<p align="center"> <a href="https://github.com/codecc-source"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=codecc-source&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" /> </a> </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codecc-source&" alt="codecc-source" /></p>
+<p align="center"> <a href="https://github.com/codecc-source"> <img src="https://ghchart.rshah.org/codecc-source" alt="GitHub Contributions Chart" /> </a> </p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=codecc-source&theme=github-dark&hide_border=true" alt="codecc-source" /></p>
